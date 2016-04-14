@@ -2,4 +2,5 @@
 
 const lcFirst = require("../lib");
 
-console.log(lcFirst());
+console.log(lcFirst("Hello!"));
+// => hello!
