@@ -16,7 +16,8 @@ $ npm i --save lc-first
 ```js
 const lcFirst = require("lc-first");
 
-console.log(lcFirst());
+console.log(lcFirst("Hello!"));
+// => hello!
 ```
     
 ## :memo: Documentation
