@@ -107,16 +107,15 @@ There are few ways to get help:
 ## :memo: Documentation
 
 
-### `lcFirst(a, b)`
+### `lcFirst(input)`
 Lowercase the first character in the string.
 
 #### Params
 
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
+- **String** `input`: Input string.
 
 #### Return
-- **Number** Return description.
+- **String** Output string.
 
 
 
